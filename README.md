@@ -56,7 +56,7 @@ Grab the latest release from the [Releases](../../releases) page, or [build from
 
 | Tool | Version | Notes |
 |------|---------|-------|
-| [Qt6](https://www.qt.io/download-open-source) | 6.2+ | Select **MinGW** during install |
+| [Qt6](https://www.qt.io/download-open-source) \| [Online Insatller](https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-windows-x64-4.11.0.exe) | 6.2+ | Select **MinGW** during install | 
 | MinGW-w64 | 11.x | Ships with Qt installer |
 | qmake | — | Ships with Qt |
 
@@ -134,8 +134,8 @@ blink-date-converter/
 │   ├── conversion.cpp           — Umm al-Qura engine
 │   └── assets/
 │       ├── app.ico              — Application icon
-        ├── BlinkDateConverter.png
-        └── Screenshot.jpg
+│       ├── BlinkDateConverter.png
+│       └── Screenshot.jpg
 ├── build/                       — Build artifacts (generated)
 ├── release/                     — Executable output (generated)
 └── dist/                        — Deployment output (generated)
