@@ -65,7 +65,7 @@ Grab the latest release from the [Releases](../../releases) page, or [build from
 ```bat
 :: Clone the repo
 git clone https://github.com/LeaDer-E/Blink-Date-Converter
-cd blink-date-converter
+cd Blink-Date-Converter
 
 :: Build release
 build.bat
@@ -133,7 +133,9 @@ blink-date-converter/
 │   ├── conversion.h             — Umm al-Qura engine header
 │   ├── conversion.cpp           — Umm al-Qura engine
 │   └── assets/
-│       └── app.ico              — Application icon
+│       ├── app.ico              — Application icon
+        ├── BlinkDateConverter.png
+        └── Screenshot.jpg
 ├── build/                       — Build artifacts (generated)
 ├── release/                     — Executable output (generated)
 └── dist/                        — Deployment output (generated)
