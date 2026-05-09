@@ -1,7 +1,7 @@
 # Blink Date Converter
 
 <p align="center">
-  <img src="src/assets/app.ico" width="96" height="96" alt="Blink Date Converter Icon">
+  <img src="src/assets/BlinkDateConverter.png" width="200" height="200" alt="Blink Date Converter Icon">
 </p>
 
 <p align="center">
@@ -39,9 +39,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/light.png" width="420" alt="Light Mode">
-  &nbsp;&nbsp;
-  <img src="screenshots/dark.png" width="420" alt="Dark Mode">
+  <img src="src/assets/Screenshot.jpg" width="1441" height="931" alt="Blink Date Converter Screenshot">
 </p>
 
 ---
