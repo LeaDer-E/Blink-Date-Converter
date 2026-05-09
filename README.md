@@ -64,7 +64,7 @@ Grab the latest release from the [Releases](../../releases) page, or [build from
 
 ```bat
 :: Clone the repo
-git clone https://github.com/yourusername/blink-date-converter.git
+git clone https://github.com/LeaDer-E/Blink-Date-Converter
 cd blink-date-converter
 
 :: Build release
